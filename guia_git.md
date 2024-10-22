@@ -21,3 +21,7 @@ pip freeze > requirements.txt
 # .gitignore
 
 colocar siempre los entornos de programacion en el .gitignore como por ejemplo el env de python
+
+# git checkout -b postgret2sql
+
+para hacer otra rama en la carpeta
